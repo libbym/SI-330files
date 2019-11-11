@@ -1,0 +1,44 @@
+First name,Last name,What grade do you expect to get in this course?,How many hours outside of lecture and lab do you plan to spend on this course (per week)?,How enthusiastic are you about taking this course?,How worried are you about this course?,"In Python, how do you create a variable ""a"" that is equal to 2?","How would you cast the string variable ""a"" that is equal to ""2"" into the integer 2?",Which of the following is a valid dictionary in Python?,What will you see if you execute the following:,What will the output of the following code be?,What grade did you give yourself?
+September,Maestas,A,12 hours,3,4,a=2,int(a),"myExample = {'someItem': 2, 'otherItem': 20}","[4, 5]",5,8
+Jarod,Tracy,A,10,5,2,a=2,int(a),"myExample = {'someItem': 2, 'otherItem': 20}","[4, 5]",5,9
+Digna,Dickey,A-,As much as needed?,4,4,a=2,int(a),"myExample = {'someItem': 2, 'otherItem': 20}","[4, 5]",5,7
+Minda,Mcclain,A,10-15 (hopefully less),4,4,a=2,int(a),"myExample = {'someItem': 2, 'otherItem': 20}","[4, 5]",1,6
+Lan,Pitts,A,6,5,3,a=2,int(a),"myExample = {'someItem': 2, 'otherItem': 20}","[4, 5]",5,10
+Rosina,Venegas,A,5-6,3,3,a=2,int(a),"myExample = {'someItem': 2, 'otherItem': 20}","4, 5, 2006",5,8
+Candyce,Thorpe,A,at least 6,4,3,a=2,int(a),"myExample = {'someItem': 2, 'otherItem': 20}","[4, 5]",5,10
+Garth,Fitch,A,6,4,1,a=2,int(a),"myExample = {'someItem': 2, 'otherItem': 20}","[4, 5]",5,8
+Mafalda,Bullock,A,10,4,2,a=2,int(a),"myExample = {'someItem': 2, 'otherItem': 20}","[4, 5]",5,10
+Twana,Larose,A-,5,3,5,a=2,int(a),"myExample = {'someItem': 2, 'otherItem': 20}","[4, 5]",5,9
+Loyce,Hewitt,A,4,4,1,a=2,int(a),"myExample = {'someItem': 2, 'otherItem': 20}","[4, 5]",4,10
+Barabara,Lott,A,5-6,4,4,a=2,int(a),"myExample = {'someItem': 2, 'otherItem': 20}","[4, 5]",5,10
+Genaro,Helm,A,8,3,4,a=2,"What do mean by ""cast""?","myExample = {'someItem': 2, 'otherItem': 20}","4, 5, 2006",4,6
+Karisa,Cave,A,10,5,2,a=2,int(a),"myExample = {'someItem': 2, 'otherItem': 20}","[4, 5]",5,8
+Hertha,Crutchfield,A-,10,3,3,int a=2,int(a),"myExample = {'someItem': 2, 'otherItem': 20}","[4, 5]",5,10
+Pattie,Curley,A-,9-12,4,3,a=2,int(a),"myExample = {'someItem': 2, 'otherItem': 20}","[4, 5]",5,7
+Harmony,Madden,A-,10,3,4,a=2,integer(a),"myExample = {'someItem': 2, 'otherItem': 20}","[4, 5]",4,7
+Ivana,Leak,A,10,4,4,a=2,int(a),"myExample = {'someItem': 2, 'otherItem': 20}","[4, 5]",5,7
+Latarsha,Snowden,A-,10,3,5,a=2,int(a),"myExample = {'someItem': 2, 'otherItem': 20}","[4, 5]",4,7
+Imogene,Provost,A,4,4,1,a=2,int(a),"myExample = {'someItem': 2, 'otherItem': 20}","[4, 5]",5,10
+Nicolette,Rickard,A,10,4,1,a=2,int(a),"myExample = {'someItem': 2, 'otherItem': 20}","4, 5, 2006",2,7
+Pa,Mcleod,A,4,4,3,a=2,int(a),"myExample = {'someItem': 2, 'otherItem': 20}","4, 5, 2006",5,9
+Amal,Vann,A-,6,4,4,a=2,int(a),"myExample = {'someItem': 2, 'otherItem': 20}","[4, 5]",5,10
+Gennie,Frey,A,10,5,5,a=2,int(a),"myExample = {'someItem': 2, 'otherItem': 20}","[4, 5]",4,6
+Collen,Stauffer,A,A lot. I have a feeling this will be my most challenging class so 8-10 hours?,4,4,a=2,int(a),"myExample = {'someItem': 2, 'otherItem': 20}","[4, 5]",5,10
+Janeen,Brower,A,4,2,4,a=2,integer(a),"myExample = {'someItem': 2, 'otherItem': 20}","4, 5, 2006",5,8
+Oneida,Soriano,A,10,4,4,a=2,int(a),"myExample = {'someItem': 2, 'otherItem': 20}","[4, 5]",5,10
+Adell,Bustos,B,4,3,4,a=2,int(a),"myExample = {'someItem': 2, 'otherItem': 20}","[4, 5]",5,10
+Holley,Olmstead,A,4-5,4,2,a=2,int(a),"myExample = {'someItem': 2, 'otherItem': 20}","[4, 5]",5,9
+Makeda,Corona,A,10,5,5,a=2,int(a),"myExample = {'someItem': 2, 'otherItem': 20}","[4, 5]",5,10
+Lawana,Mccallister,A,8,4,4,a=2,int(a),"myExample = {'someItem': 2, 'otherItem': 20}","[4, 5]",5,9
+Iliana,Milam,A,10,4,4,int a=2,int(a),"myExample = {'someItem': 2, 'otherItem': 20}","4, 5, 2006",5,7
+Leisha,Craft,A-,7,4,4,int a=2,int(a),"myExample = {'someItem': 2, 'otherItem': 20}","4, 5, 2006",5,8
+Susana,Saxton,A+,10,4,5,a=2,int(a),"myExample = {'someItem': 2, 'otherItem': 20}","4, 5, 2006",4,3
+Sherrill,Bowens,A,5-6,4,3,a=2,int(a),"myExample = {'someItem': 2, 'otherItem': 20}","[4, 5]",5,9
+Ha,Cranford,A,5,4,2,a=2,int(a),"myExample = {'someItem': 2, 'otherItem': 20}","[4, 5]",5,10
+Angelita,Stephen,A-,4,3,4,a=2,int(a),"myExample = {'someItem': 2, 'otherItem': 20}","[4, 5]",5,6
+Travis,Dwyer,A+,4,5,3,a=2,int(a),"myExample = {'someItem': 2, 'otherItem': 20}","4, 5, 2006",5,7
+Lemuel,Stephenson,A,10,4,3,a=2,int(a),"myExample = {'someItem': 2, 'otherItem': 20}","[4, 5]",5,10
+Bong,Weatherford,A-,5-6,4,4,a=2,int(a),"myExample = {'someItem': 2, 'otherItem': 20}","[4, 5]",4,4
+Latashia,Mead,A-,10,4,3,a=2,int(a),"myExample = {'someItem': 2, 'otherItem': 20}","4, 5, 2006",5,5
+Laurette,Christenson,A,6,4,3,a=2,int(a),"myExample = {'someItem': 2, 'otherItem': 20}","[4, 5]",5,8
+Devorah,Sherrod,A,6,4,2,a=2,int(a),"myExample = {'someItem': 2, 'otherItem': 20}","4, 5, 2006",,8
